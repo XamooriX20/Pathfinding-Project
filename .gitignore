@@ -1,0 +1,18 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven target directory
+target/
+
+# Compiled bytecode
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Output directory
+out/
